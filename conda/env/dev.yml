@@ -1,0 +1,11 @@
+---
+name: company.project_name
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+
+  - ccache
+  - gcc
+  - nuitka
+  - patchelf
